@@ -177,4 +177,4 @@ At this stage we test the mobile app. Click the **1-Click Publish** button to pu
 When the application is deployed, click the **Open in Browser** button to test your application in a browser (Chrome and Safari are supported).
 
 
-To try out the app on your mobile device see [Distribute as a progressive web app (PWA)](../deliver-mobile/distribute-pwa/intro.md).
+To try out the app on your mobile device see [Distribute as a progressive web app (PWA)](https://success.outsystems.com/Documentation/11/Delivering_Mobile_Apps/Distribute_as_a_progressive_web_app).
