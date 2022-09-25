@@ -1,6 +1,6 @@
 # OutSystems Project Ideas
 
-Are you looking to learn app development with OutSystems? Here are some project ideas for you to start your low-code journey.
+Here are some project ideas for you to start your low-code journey with OutSystems.
 
 ## Getting Started
 
