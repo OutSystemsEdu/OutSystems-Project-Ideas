@@ -2,7 +2,7 @@ Here are some project ideas for you to start your low-code journey with OutSyste
 
 ## Getting Started
 
-- [Build Your First Mobile App](https://github.com/OutSystemsEdu/OutSystems-Project-Ideas/blob/main/create-mobile.md)
+- [Build Your First Mobile App](Getting Started/Build Your First Mobile App/create-mobile.md)
 
 ## Intermediate
 
