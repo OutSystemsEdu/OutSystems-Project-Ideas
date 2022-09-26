@@ -1,6 +1,8 @@
-We are welcoming contributions to this repo.
+We are welcoming contributions to this repo :bulb:
 
-## Adding New Projects
+![image](https://www.outsystems.com/-/media/images/personas/pro-developers/pro-developers-hero.jpg)
+
+## Adding New Projects :blue_heart:
 You can contribute by adding *new projects ideas* that you think might be helpful for others in the community.
 
 1) Fork this repo.
@@ -19,8 +21,8 @@ You can contribute by adding *new projects ideas* that you think might be helpfu
 
 <br>
 
-## Convert PDF Guides to Markdown
-You can also help by converting the existing PDFs to clean and readable markdown files.
+## Convert Existing PDFs to Markdown :sparkles:
+You can also help by converting the existing PDF guides to clean and readable markdown files, so that they are easier to update with community's feedback.
 
 ### [Build Your Own Instagram Clone App](https://drive.google.com/file/d/1r8RRQ14a5Z5M4QIMehn3Z8sezQO0_yax/view)
 
