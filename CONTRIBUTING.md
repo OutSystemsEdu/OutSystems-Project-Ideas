@@ -28,7 +28,9 @@ You can also help by converting the existing PDFs to clean and readable markdown
 
 2) Navigate to CONTRIBUTING/Intermediate/create-outstagram.md
 
-3) 
+3) You can edit the file in a clean and readable format. Please upload pictures in images folder in the same directory with appropriate names such as create-mobile-01.png, create-mobile-02.png etc.
+
+4) 7) Once you are ready, send a pull request.
 
 <br>
 
@@ -36,6 +38,8 @@ You can also help by converting the existing PDFs to clean and readable markdown
 
 1) Fork this repo.
 
-2) Navigate to CONTRIBUTING/Advanced folder.
+2) Navigate to CONTRIBUTING/Advanced/create-kickstarter.md
 
-3) 
+3) You can edit the file in a clean and readable format. Please upload pictures in images folder in the same directory with appropriate names such as create-mobile-01.png, create-mobile-02.png etc.
+
+4) 7) Once you are ready, send a pull request.
