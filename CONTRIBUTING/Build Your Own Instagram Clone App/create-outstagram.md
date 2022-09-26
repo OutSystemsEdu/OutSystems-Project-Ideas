@@ -27,10 +27,10 @@ Again you should see the installation taking place.
 
 Download the following files:
 
-```
-● Logo
-● Application
-```
+
+- [Logo](https://github.com/OutSystemsEdu/OutSystems-Project-Ideas/raw/main/CONTRIBUTING/Build%20Your%20Own%20Instagram%20Clone%20App/images/OutStagram.png)
+- [Application](https://github.com/OutSystemsEdu/OutSystems-Project-Ideas/raw/main/CONTRIBUTING/Build%20Your%20Own%20Instagram%20Clone%20App/OutStagram.oap)
+
 ### Install OutStagram
 
 On Studio menu, select Environment and Open Files
